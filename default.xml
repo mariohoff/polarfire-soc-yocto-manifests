@@ -4,8 +4,8 @@
   <remote name="meta-polarfire-soc-yocto-bsp" fetch="https://github.com/polarfire-soc/" />
   <default remote="openembedded" revision="master" />
   <project name="meta-polarfire-soc-yocto-bsp" remote="meta-polarfire-soc-yocto-bsp" path="meta-polarfire-soc-yocto-bsp" revision="master" />
-  <project name="openembedded-core" remote="openembedded" path="openembedded-core" revision="2501534c9581c6c3439f525d630be11554a57d24" />
-  <project name="bitbake" remote="openembedded" path="openembedded-core/bitbake" revision="40fd5f4eef7460ca67f32cfce8e229e67e1ff607" />
+  <project name="openembedded-core" remote="openembedded" path="openembedded-core" revision="f09fca692f96c9c428e89c5ef53fbcb92ac0c9bf" />
+  <project name="bitbake" remote="openembedded" path="openembedded-core/bitbake" revision="eb5c1ce6b1b8f33535ff7b9263ec7648044163ea" />
   <project name="meta-openembedded" remote="openembedded" path="meta-openembedded" revision="8bb16533532b6abc2eded7d9961ab2a108fd7a5b" />
 
 </manifest>
